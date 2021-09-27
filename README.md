@@ -15,6 +15,6 @@
 <a href="https://linkedin.com/in/olamide-idowu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olamide-idowu" height="20" width="30" /></a>
 </p>
 <br/>
-<p align="left">
+<h4 align="left">
 Oh I forgot, we going to the MOON! 🚀
-</p>
+</h4>
