@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm LordTricto</h1>
-<h3 align="center">A tech-savvy web developer doing every and anything to have my work featured on awwwards.com</h3>
+<h1 align="left">Hi 👋, I'm LordTricto</h1>
+<h3 align="left">A tech-savvy web developer doing every and anything to have my work featured on awwwards.com</h3>
 
 - 🔭 I’m currently working on **a couple of projects but if you have anything for me you can reach out.**
 
@@ -8,7 +8,7 @@
 
 - 📫 Don't be scared to send me a mail **lammy.idowu@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://dev.to/lordtricto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="lordtricto" height="20" width="30" /></a>
 <a href="https://twitter.com/tricto__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tricto__" height="20" width="30" /></a>
