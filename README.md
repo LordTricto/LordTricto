@@ -1,5 +1,5 @@
 
-<h1 align="left">Hey there, I'm LordTricto</h1>
+<!-- <h1 align="left">Hey there, I'm LordTricto</h1>
 <h3 align="left">A tech-savvy web developer doing every and anything to have my work featured on awwwards.com</h3>
 
 - 🔭 I’m currently working on **a couple of projects but if you have anything for me you can reach out.**
@@ -17,4 +17,6 @@
 <br/>
 <h4 align="left">
 Oh I forgot, we going to the MOON! 🚀
-</h4>
+</h4> -->
+
+we going to the MOON! 🚀
